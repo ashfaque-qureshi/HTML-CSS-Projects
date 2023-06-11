@@ -1,3 +1,2 @@
 This Netflix Clone is purely made with HTML-CSS.
-
-Uploading 20230611_222319.mp4…
+https://github.com/ashfaque-qureshi/HTML-CSS-Projects/assets/60036969/b20eb424-8bd3-4496-9070-1207889f6540
